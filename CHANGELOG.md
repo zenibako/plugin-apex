@@ -1,3 +1,51 @@
+## [3.6.19](https://github.com/salesforcecli/plugin-apex/compare/3.6.18...3.6.19) (2025-05-25)
+
+### Bug Fixes
+
+- **deps:** bump @salesforce/apex-node from 8.1.26 to 8.1.27 ([d6987f6](https://github.com/salesforcecli/plugin-apex/commit/d6987f6112d1cbb3f52e02ff94e1ea6b3f640581))
+
+## [3.6.18](https://github.com/salesforcecli/plugin-apex/compare/3.6.17...3.6.18) (2025-05-18)
+
+### Bug Fixes
+
+- **deps:** bump @salesforce/apex-node from 8.1.25 to 8.1.26 ([4b73a69](https://github.com/salesforcecli/plugin-apex/commit/4b73a698dd1a2c316d515362c329721041e203b6))
+
+## [3.6.17](https://github.com/salesforcecli/plugin-apex/compare/3.6.16...3.6.17) (2025-05-04)
+
+### Bug Fixes
+
+- **deps:** bump @salesforce/apex-node from 8.1.22 to 8.1.24 ([38e210c](https://github.com/salesforcecli/plugin-apex/commit/38e210cae745f38da140af61bf0c616952a58726))
+
+## [3.6.16](https://github.com/salesforcecli/plugin-apex/compare/3.6.15...3.6.16) (2025-05-04)
+
+### Bug Fixes
+
+- **deps:** bump @salesforce/core from 8.10.0 to 8.10.1 ([79d2d3f](https://github.com/salesforcecli/plugin-apex/commit/79d2d3fa79d0657b41c60c2a7a4098265234f407))
+
+## [3.6.15](https://github.com/salesforcecli/plugin-apex/compare/3.6.14...3.6.15) (2025-04-27)
+
+### Bug Fixes
+
+- **deps:** bump @salesforce/apex-node from 8.1.20 to 8.1.22 ([181ef84](https://github.com/salesforcecli/plugin-apex/commit/181ef84096ca84934f625c9fac73fd1f3748c44e))
+
+## [3.6.14](https://github.com/salesforcecli/plugin-apex/compare/3.6.13...3.6.14) (2025-04-27)
+
+### Bug Fixes
+
+- **deps:** bump @salesforce/core from 8.9.0 to 8.10.0 ([ed895d1](https://github.com/salesforcecli/plugin-apex/commit/ed895d1b5148d95e2b443a38a2ccb8fb6b00e8f7))
+
+## [3.6.13](https://github.com/salesforcecli/plugin-apex/compare/3.6.12...3.6.13) (2025-04-20)
+
+### Bug Fixes
+
+- **deps:** bump @salesforce/apex-node from 8.1.19 to 8.1.20 ([2b979a3](https://github.com/salesforcecli/plugin-apex/commit/2b979a3232be5d4b2c527597a7a8b2f9c1664b5c))
+
+## [3.6.12](https://github.com/salesforcecli/plugin-apex/compare/3.6.11...3.6.12) (2025-04-03)
+
+### Bug Fixes
+
+- handle error for sync test runs & check for valid error first ([#710](https://github.com/salesforcecli/plugin-apex/issues/710)) ([48b337e](https://github.com/salesforcecli/plugin-apex/commit/48b337e42b1ce7e02001b290661b12ccd0a18124))
+
 ## [3.6.11](https://github.com/salesforcecli/plugin-apex/compare/3.6.10...3.6.11) (2025-03-23)
 
 ### Bug Fixes
